@@ -12,6 +12,6 @@ management:
 
 info:
     name: ${spring.application.name}
-    description: CBCTEC
+    description: Test Project
     environment: ${spring.profiles.active}
     version: 1.0.0
